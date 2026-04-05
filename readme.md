@@ -1,10 +1,10 @@
 # TouchJai - Automotive Customer Loyalty & Membership System
 ระบบสมาชิกและสะสมแต้ม สำหรับศูนย์บริการรถยนต์ครบวงจร
 
-## 📌 Project Overview
+## Project Overview
 TouchJai เป็นระบบบริหารจัดการความสัมพันธ์ลูกค้า (CRM) ที่ออกแบบมาเพื่อเปลี่ยนลูกค้าขาจรให้เป็นลูกค้าประจำ (Loyalty Program) โดยระบบเน้นการจัดเก็บประวัติการใช้บริการ การสะสมคะแนนจากยอดซื้อ และการมอบสิทธิประโยชน์เฉพาะบุคคล เพื่อสร้างความพึงพอใจสูงสุดให้กับผู้เข้ารับบริการในเครือเอกการยาง
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Framework:** Laravel 5.7 (PHP)
 * **Database:** MySQL
 * **Frontend:** Bootstrap, jQueryฃ
